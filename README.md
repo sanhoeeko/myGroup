@@ -10,10 +10,10 @@
 
 ### 依赖关系
 
-`cg`
- └ `groupTensor_pack`
-　├ `newYoung`
-　 |　└ `groupLinear`
-　├ `oddEven`
-　 |　└ `groupLinear`
-　└ `groupLinear`
+`cg`  
+ └ `groupTensor_pack`  
+　├ `newYoung`  
+　 |　└ `groupLinear`  
+　├ `oddEven`  
+　 |　└ `groupLinear`  
+　└ `groupLinear`  
